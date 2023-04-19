@@ -1,0 +1,20 @@
+body
+{ font-family:!important;
+ font-size: 45px;
+ text-align: center;
+}
+a{ text-decoration: none;
+	background-color: reba(255,0,0,.5);
+padding: 10px 22px;
+}
+a:link{ color: green; }
+a:visited{
+	color:green ;
+}
+a:hover{
+	colour:white;
+	background-color: blueviolet;
+}
+a:active{
+	coller:red;
+}
